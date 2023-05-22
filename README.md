@@ -1,1 +1,0 @@
-# Projeto-Mecanica-Back-End
